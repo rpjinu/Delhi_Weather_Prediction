@@ -1,7 +1,7 @@
 # Delhi_Weather_Prediction
 "LSTM-based weather condition prediction using time series meteorological data with label encoding and class balancing."
 
-<img src="">
+<img src="https://github.com/rpjinu/Delhi_Weather_Prediction/blob/main/project_image.png">
 
 # 🌦️ Weather Forecasting using LSTM 🧠⏳
 
